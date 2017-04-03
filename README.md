@@ -13,3 +13,4 @@ I just changed something, but I want you know.
 So I create a PR.
 
 # Test if it's on my gh-pages
+# Test if I can edit the file.
